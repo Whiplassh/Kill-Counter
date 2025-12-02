@@ -1,0 +1,7 @@
+{
+  "key.categories.killcounter": "Счётчик убийств",
+  "key.killcounter.open": "Открыть счётчик (K)",
+  "screen.killcounter.title": "Счётчик убийств",
+  "screen.killcounter.kills": "Убийств: %s",
+  "screen.killcounter.reset": "Сбросить"
+}

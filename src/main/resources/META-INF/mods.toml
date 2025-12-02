@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL=""
+
+[[mods]]
+modId="killcounter"
+version="1.0.0"
+displayName="Kill Counter"
+updateJSONURL=""
+displayURL=""
+authors="MF"
+description='''
+Shows how many players you have killed and lets you reset the counter.
+'''
+
+[[dependencies.killcounter]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.killcounter]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

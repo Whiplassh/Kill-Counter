@@ -1,0 +1,7 @@
+{
+  "key.categories.killcounter": "Kill Counter",
+  "key.killcounter.open": "Open Kill Counter (K)",
+  "screen.killcounter.title": "Kill Counter",
+  "screen.killcounter.kills": "Kills: %s",
+  "screen.killcounter.reset": "Reset"
+}
