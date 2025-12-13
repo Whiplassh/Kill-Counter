@@ -1,2 +1,8 @@
 Manifest-Version: 1.0
+Specification-Title: killcounter
+Specification-Vendor: Whipplash
+Specification-Version: 1
+Implementation-Title: Kill Counter
+Implementation-Version: 1.0.0
+Implementation-Vendor: Whipplash
 
